@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Amit Chandhok 👋
 
-<!--
-**amitchandhok/amitchandhok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Scientist** with a background in entertainment analytics, passionate about solving real-world problems with data. I'm currently building projects in machine learning, statistical modeling, and data storytelling.
 
-Here are some ideas to get you started:
+## 💼 What I’m Working On
+- 📊 End-to-end pricing analysis & elasticity modeling using Python and statsmodels
+- 📦 Demand forecasting pipeline based on retail sales data
+- 🧾 Invoice compliance monitoring project simulating SAP and contract data
+- 🌱 Exploring advanced ML tools and experimentation frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests
+- Predictive modeling and time-series analysis
+- Data engineering for analytics workflows
+- A/B testing and business experiment design
+- Communicating insights through clean, impactful visuals
+
+## 🛠️ Tech Stack
+**Languages**: Python, SQL
+**Tools**: Jupyter Notebooks, Power BI, GitHub  
+**Machine Learning & Statistics**: Supervised (Random Forest, XGBoost), Unsupervised (Clustering, Association), Linear/Logistic Regression, Hypothesis Testing (A/B Testing), Time Series Forecasting
+
+## 📫 How to Reach Me
+- LinkedIn: www.linkedin.com/in/amitchandhok
+
+Thanks for stopping by!
